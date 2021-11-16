@@ -7,7 +7,7 @@ body {
 
 
 #card {
-  margin: 3em auto;
+  margin: 6em auto;
   display: flex;
   flex-direction: column;
   max-width: 600px;
